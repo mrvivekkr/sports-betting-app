@@ -54,7 +54,7 @@ This will start the application on port `8080`.
 
 ## API Endpoint
 
-### POST `/api/events/outcome`
+### POST `/api/event-outcomes`
 
 Publishes a sports event outcome to Kafka topic `event-outcomes`.
 
