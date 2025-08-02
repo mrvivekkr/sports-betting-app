@@ -28,6 +28,14 @@ Note: RocketMQ integration is mocked using regular Spring services.
 - Maven
 - Docker & Docker Compose
 
+### IDE Setup
+
+This project requires **Java 17**. Your IDE might default to a different JDK. To avoid compilation errors, please ensure your IDE's project settings are explicitly configured to use JDK 17.
+
+* **For IntelliJ IDEA**:
+   * Go to `File` > `Settings` > `Build, Execution, Deployment` > `Build Tools` > `Maven` > `Runner`.
+   * In the `JRE` dropdown, select your installed **JDK 17**.
+
 ### Steps
 
 1. Start Kafka:
