@@ -24,7 +24,7 @@ Note: RocketMQ integration is mocked using regular Spring services.
 
 ### Prerequisites
 
-- Java 17+
+- Java 17
 - Maven
 - Docker & Docker Compose
 
