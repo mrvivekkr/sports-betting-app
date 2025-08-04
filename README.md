@@ -75,6 +75,7 @@ Publishes a sports event outcome to Kafka topic `event-outcomes`.
   "eventWinnerId": "India"
 }
 ```
+<img width="835" height="871" alt="image" src="https://github.com/user-attachments/assets/1748e6f7-7891-4a07-bf44-9a1f984fb65e" />
 
 #### Expected Flow:
 
